@@ -1,7 +1,6 @@
 # python-microservice-deploy
 
 Steps:
-
 - Get Python
 - Create python VM
 - Create sample flask app
